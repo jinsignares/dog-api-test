@@ -14,13 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[## Packages used
+## Packages used
 
 I used the tools I feel most familiar with. Those being: 
 
-    * NextJS: I've been using NextJS lately for all my projects. I find it immensely faster than a regular React App.
-    * TailwindCSS: I find it more intuitive than Bootstrap. I've used Bootstrap in the past until I started useing TailwindCSS.
-    * useSWR: I use it along with axios to handle all my data fetching. I usually handle state management with Redux but this being a pretty small project I used useSWR to handle  intermediate loading or validation states.
+    - NextJS: I've been using NextJS lately for all my projects. I find it immensely faster than a regular React App.
+    - TailwindCSS: I find it more intuitive than Bootstrap. I've used Bootstrap in the past until I started useing TailwindCSS.
+    - useSWR: I use it along with axios to handle all my data fetching. I usually handle state management with Redux but this being a pretty small project I used useSWR to handle  intermediate loading or validation states.
 
 ## Funcionality
 
